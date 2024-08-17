@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "769795104125",
+    "project_id": "pixi-2ca70",
+    "storage_bucket": "pixi-2ca70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769795104125:android:c9ffb7ceddf5f7669e0014",
+        "android_client_info": {
+          "package_name": "com.example.pixi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJZUPpeOfIxOlksN9KINiEGAYupH-JCHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
